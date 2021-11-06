@@ -1,1 +1,2 @@
-num1 = 100
+num1 = 100  # zhangsan
+num2 = 200  # Manager
